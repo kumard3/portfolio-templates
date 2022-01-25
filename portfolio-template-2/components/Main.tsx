@@ -22,14 +22,14 @@ export function Main(){
             },
             "onDiv": {
               "elementId": "repulse-div",
-              "enable": true,
+              "enable": false,
               "mode": "repulse"
             },
             "onHover": {
               "enable": true,
               "mode": "bubble",
               "parallax": {
-                "enable": true,
+                "enable": false,
                 "force": 60,
                 "smooth": 10
               }
