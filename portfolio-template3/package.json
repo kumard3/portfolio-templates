@@ -1,0 +1,40 @@
+{
+  "name": "tailwind-starter-nextjs",
+  "version": "1.0.0",
+  "description": "typescript starter with tailwindcss",
+  "author": "kumard3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyphen12/tailwind-typescript-starter.git"
+  },
+  "source": "pages/index.tsx",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
+    "@mdx-js/loader": "^1.6.22",
+    "@next/mdx": "^10.2.0",
+    "framer-motion": "^2.9.4",
+    "gsap": "^3.5.1",
+    "next-transpile-modules": "^4.1.0",
+    "react-ga": "^3.2.1",
+    "sass": "^1.29.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7"
+  }
+}
