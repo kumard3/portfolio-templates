@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "typescript starter with tailwindcss",
   "author": "kumard3",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Cyphen12/tailwind-typescript-starter.git"
-  },
-  "source": "pages/index.tsx",
   "engines": {
     "node": ">=14"
   },
