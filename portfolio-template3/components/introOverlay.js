@@ -1,5 +1,3 @@
-import React from "react";
-
 function IntroOverlay() {
   return (
     <div className="intro-overlay">
@@ -8,4 +6,4 @@ function IntroOverlay() {
   );
 }
 
-export default IntroOverlay;
+export default IntroOverlay
